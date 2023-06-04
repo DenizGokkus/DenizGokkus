@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Taylan Deniz
 
+
 Welcome to my GitHub profile! I'm a passionate programmer with a strong interest in obtaining a programming job. I enjoy working on projects that showcase my skills and demonstrate my ability to solve real-world problems efficiently.
 
 ## 👀 Interests
