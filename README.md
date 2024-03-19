@@ -27,6 +27,6 @@ I'm open to collaborating on projects related to web development, data analysis,
 
 You can reach me via:
 - Email: denizgokkus1@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/taylan-deniz-gokkus-042aa6288/
 
 Let's connect, share ideas, and contribute to the thriving GitHub community!
