@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate programmer with a strong interest
 I'm currently focusing on expanding my skills in the following programming languages:
 
 - C/C++
-- Go
 - C#
 - Dart
 
