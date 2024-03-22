@@ -15,8 +15,7 @@ I'm currently focusing on expanding my skills in the following programming langu
 
 - C/C++
 - C#
-- Python 
-- Dart
+- Java
 
 I'm diving deep into these languages to strengthen my foundation and explore their various applications in different domains.
 
